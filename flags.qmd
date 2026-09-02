@@ -1,6 +1,8 @@
 ---
 title: "World Flags & Similarity Explorer"
 format: html
+resources:
+  - "data/*.png"
 execute:
   echo: false
 ---
